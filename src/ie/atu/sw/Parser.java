@@ -2,6 +2,13 @@ package ie.atu.sw;
 
 import java.io.*;
 
+/**
+ * Handles the Parsing of the directory and associated text files. Each line then passed on to be seperated into
+ * N-Grams of a set size. Class has been left as submitted to the lecturer for grading. Surplus of comments is
+ * due to this, as actions needed to be explained.
+ *
+ * @author Richard Daly
+ */
 public class Parser {
 	/*
 	 * Instance variables change the behavior of how Text Files are parsed. Default
