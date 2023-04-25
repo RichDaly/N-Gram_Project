@@ -15,6 +15,8 @@ To develop a menu-driven Java application that can:
 6. Build a frequency table for each unique lower-case n-gram in the text files and strip out any unwanted characters and whitespace.
 7. Each method in your application must include comments.
 
+### Received Result: 93/100
+
 ## Running the application
 
 1. Download **src** directory.
