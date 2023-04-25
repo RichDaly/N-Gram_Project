@@ -2,6 +2,12 @@ package ie.atu.sw;
 
 import java.io.*;
 
+/**
+ * Collection of Utility methods for the application. Class has been left as submitted to the lecturer 
+ * for grading. Surplus of comments is due to this, as actions needed to be explained.
+ *
+ * @author Richard Daly
+ */
 public class Utils {
 	
 	/*
