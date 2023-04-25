@@ -6,7 +6,9 @@ import java.util.Scanner;
  * Manages the Command Line User Interface for working with the application and each choice associated
  * with the Menu. Class has been left as submitted to the lecturer for grading. Surplus of comments is
  * due to this, as actions needed to be explained.
-**/
+ *
+ * @author Richard Daly
+ */
 public class Menu {
 	private boolean keepRunning = true; // Boolean to keep Application running until user quits.
 	private Scanner scanner; // Instance Variable for Scanner so that can use throughout the class.
