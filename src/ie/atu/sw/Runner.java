@@ -1,5 +1,11 @@
 package ie.atu.sw;
 
+/**
+ * Contains the main method for running the application. Launches the Command Line User
+ * Interface.
+ *
+ * @author Richard Daly
+ */
 public class Runner {
 
 	public static void main(String[] args) throws Exception {
