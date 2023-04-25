@@ -20,7 +20,7 @@ To develop a menu-driven Java application that can:
 1. Download **src** directory.
 2. Compile all Java files with the following command within src directory. `javac ie/atu/sw/*.java`
 3. Run the application with the following command. `java ie.atu.sw.Runner`
-4. Using the Menu outlined below ensuring that Specify Directory and Output File are competed before using Build N-Grams.
+4. Using the Menu outlined below ensuring that Specify Directory and Output File (Giving a path for each location) are competed before using Build N-Grams.
 
 ## Menu Driven Features Available
 
