@@ -1,5 +1,12 @@
 package ie.atu.sw;
 
+/**
+ * Takes parsed String and seperates it into the desired N-Gram size. All resulting N-Grams are stored
+ * here as well. Class has been left as submitted to the lecturer for grading. Surplus of comments is 
+ * due to this, as actions needed to be explained.
+ *
+ * @author Richard Daly
+ */
 public class NgramGenerator {
 	private Object[][] table; // 2 Dimensional array to store n-grams and frequencies.
 	private String ngramOutput; // The output file for table to be printed to.
